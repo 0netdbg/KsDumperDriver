@@ -1,4 +1,5 @@
-# KsDumper
+# KsDumperDriver (KsDumper)
+
 ![Demo](https://i.imgur.com/6XyMDxa.gif)
 
 I always had an interest in reverse engineering. A few days ago I wanted to look at some game internals for fun, but it was packed & protected by EAC (EasyAntiCheat).
